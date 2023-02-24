@@ -4,6 +4,6 @@ I'm Lauren — a software engineer interested in creating tech that has a tangib
 
 [Portfolio](https://www.laurenejohnston.com/) | [Twitter](https://twitter.com/laur_johnston) | [LinkedIn](https://www.linkedin.com/in/laurenjohnston9/)
 
-- 🔭 I’m currently working on [Representable](https://representable.org/)
+- 🔭 I’m currently working at [Nuna](https://www.nuna.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/laurenjohnston9/)
 - 😄 Pronouns: she/her/hers
